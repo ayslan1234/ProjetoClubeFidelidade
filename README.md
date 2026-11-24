@@ -346,7 +346,7 @@ Seguindo a regra de transparência do trabalho, registramos abaixo o uso de IA n
 
 **Resposta obtida:** a IA escolheu o tema 07, gerou as classes dos pacotes `model`, `interfaces`, `exception`, `view` e `controller`, montou este README e testou a compilação e a tela.
 
-**Como refinamos:** _(descrever aqui o que a dupla revisou, testou ou alterou no código)_
+**Como refinamos:** _(alteramos o código da interface a gosto)_
 
 ### Prompt 2
 
@@ -354,4 +354,4 @@ Seguindo a regra de transparência do trabalho, registramos abaixo o uso de IA n
 
 **Resposta obtida:** a IA reescreveu este README (regras de negócio com exemplos, diagramas de classes e de sequência, tabela de validações, dados de exemplo e conceitos de POO aplicados). No código, removeu os comentários que só repetiam o que a linha já dizia e documentou as classes e os métodos principais com Javadoc. A lógica do programa não foi alterada.
 
-**Como refinamos:** _(descrever aqui o que a dupla revisou, testou ou alterou)_
+**Como refinamos:** _(tiramos todos os textos desnecessários a conhecimento)_
